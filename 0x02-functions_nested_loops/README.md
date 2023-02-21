@@ -1,12 +1,12 @@
-Functions and nested loops
+### Functions and nested loops
 
 
-Requirements
-C programming language
-Ubuntu 14.04 LTS
-gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
-Synopsis
-This project introduces functions and nested loops in C programming. Each .c file contains a different function while the file contains all the function prototypes.
+## Requirements
+# C programming language
+# Ubuntu 14.04 LTS
+# gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
+
+# This project introduces functions and nested loops in C programming. Each .c file contains a different function while the <main.h> file contains all the function prototypes.
 
 Description of what each file does
 - prints "_putchar"
